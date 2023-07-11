@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Console)/*
+!/Cinema Room Manager (Console)/task/
+/Cinema Room Manager (Console)/task/*
+!/Cinema Room Manager (Console)/task/src
+
+# Project exclude paths
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/The try-catch statement/Braking distance/out/
+/Topics/The try-catch statement/Braking distance/out/production/classes/
